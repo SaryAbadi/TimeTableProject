@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache

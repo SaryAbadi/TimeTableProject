@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרויקט גמר\C#\project1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
