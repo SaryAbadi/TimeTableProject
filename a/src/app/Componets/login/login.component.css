@@ -1,0 +1,23 @@
+.page
+{ 
+    box-shadow: 0 17px 40px 0 rgb(17 43 85 / 10%);
+    background-color: #ffffff;
+    width: 1000px;
+    height: 600px;
+    border-radius: 60px;
+    margin: 120px 0 0 0;
+    position: relative;
+    display: contents;
+}
+.hide
+{
+    float: left;
+    margin-left: 0% !important;
+}
+
+.page::before
+{
+    content: "";
+    background-size: cover;
+    position: absolute;
+}
