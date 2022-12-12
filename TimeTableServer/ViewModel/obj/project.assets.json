@@ -6029,11 +6029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\ViewModel\\ViewModel.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\ViewModel\\ViewModel.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\ViewModel\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

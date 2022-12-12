@@ -6050,11 +6050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6070,8 +6070,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\C#\\project1\\ViewModel\\ViewModel.csproj"
+            "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\פרויקט גמר\\TimeTable\\TimeTableProject\\TimeTableServer\\ViewModel\\ViewModel.csproj"
             }
           }
         }
