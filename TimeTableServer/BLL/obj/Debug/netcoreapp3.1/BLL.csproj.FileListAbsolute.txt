@@ -10,4 +10,15 @@ C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableServer\project1\pro
 C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
 C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache
 C:\Users\User\Desktop\פרויקט גמר\TimeTable\TimeTableProject\TimeTableServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache

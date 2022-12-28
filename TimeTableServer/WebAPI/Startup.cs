@@ -12,8 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using project1.Models;
-using WebApi.Mapping;
+using Microsoft.OpenApi.Models;
 
 namespace project1
 {
@@ -30,12 +29,12 @@ namespace project1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.Configure<DatabaseSettings>(Configuration.GetSection(nameof(DatabaseSettings)));
-            services.AddSingleton<IDatabaseSettings>(x => x.GetRequiredService<IOptions<DatabaseSettings>>().Value);
-            var mapper = AutoMappingConfig.RegisterMappings();
-            services.AddSingleton(mapper);
-            services.AddAutoMapper(typeof(Startup));
-            services.AddSingleton<MembersService>();
+            //services.Configure<DatabaseSettings>(Configuration.GetSection(nameof(DatabaseSettings)));
+            //services.AddSingleton<IDatabaseSettings>(x => x.GetRequiredService<IOptions<DatabaseSettings>>().Value);
+            //var mapper = AutoMappingConfig.RegisterMappings();
+            //services.AddSingleton(mapper);
+            //services.AddAutoMapper(typeof(Startup));
+            //services.AddSingleton<MembersService>();
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll", t =>
@@ -65,7 +64,8 @@ namespace project1
 
             app.UseCors("AllowAll");
 
-            app.UseEndpoints(endpoint => {
+            app.UseEndpoints(endpoint =>
+            {
                 endpoint.MapControllerRoute(
                     name: "default",
                     pattern: "{controller}/{action}/{id?}");
@@ -73,7 +73,7 @@ namespace project1
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "my api v1");
             });
 
         }
